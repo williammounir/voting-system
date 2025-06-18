@@ -1,0 +1,7 @@
+E1#//#Goat#//#Election about who is the real goat of football#//#ronaldo#//#4#//#0,0,1,0,1,0#//#1
+E2#//#Best Tech CEO#//#Who shaped the tech world?#//#elon_musk,steve_jobs,bill_gates,mark_zuckerberg#//#16,21,18,13#//#0,1,1,1,1,0#//#0
+E3#//#goat of tech#//#what is the leading company in tech#//#tesla,microsoft,open ai,meta,semiens#//#1,0,0,1,0#//#1,1,0,0,0,0#//#0
+E4#//#egypt first musican#//#who is the worst musican in egypt#//#3mr_diab,wegz,mohammed mounir,3bd elwhab#//#0,0,0,0#//#1,1,1,0,0,0#//#0
+E5#//#Arsenal main man#//#the best player in Arsenal is.....#//#saka,saliba#//#0,0#//#1,1,1,1,1,1#//#1
+E44#//#champions of UCL 2025#//#which team arseanl will win aganist in the final#//#Arsenal,PSG,Inter,Barcelona#//#1,0,0,0#//#1,1,1,1,1,1#//#0
+E99#//#uug#//#what #//#gjfj,fj,f#//#0,0,0#//#1,1,1,1,0,0#//#0
